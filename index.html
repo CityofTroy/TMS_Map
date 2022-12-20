@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset=utf-8 />
+  <title>TMS Map</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+  <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+
+  <style>
+    /* Styles for full-screen map */
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: "Lato", sans-serif;
+      font-size: 100%;
+      font-weight: 300;
+
+
+      
+    }
+
+    #map {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div id='map'></div>
+  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
+  <script src="businesses.js">
+  </script>
+
+  <script>
+    // map options
+    var options = {
+      center: [40.040, -84.202],
+      zoom: 16,
+    }
+
+    // create a Leaflet map in our division container with id of 'map'
+    var map = L.map("map", {
+      zoomSnap: 0.1,
+      center: [40.040, -84.202],
+      zoom: 16,
+      zoomControl: false,
+      minZoom: 14,
+      maxZoom: 20,
+    });
+
+    // Leaflet providers base map URL
+    // mapbox API parameters
+  
+
+
+    // request a mapbox raster tile layer and add to map
+    L.tileLayer(`https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png`, {
+      attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
+      maxZoom: 20
+      
+    }).addTo(map);
+    console.log(businesses);
+
+   
+    var commonStyles = {
+      weight: 1,
+      stroke: 1,
+      fillOpacity: .6,
+      radius: 7,
+    }
+
+    var shoplayer = L.geoJson(businesses, {
+      pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, commonStyles);
+      },
+      onEachFeature: function (feature, layer) {
+				// name of power plant in toolip
+				layer.bindTooltip(`<b>${layer.feature.properties.Name}</b><br>Address: ${layer.feature.properties.Address}`);
+				layer.on('mouseover', function () {
+					layer.setStyle({
+						fillColor: 'white'
+					});
+				});
+				layer.on('mouseout', function () {
+					layer.setStyle({
+						color: '#003b71',
+						fillColor: '#003b71',
+					});
+				});
+			},
+      filter: function (feature) {
+        if (feature.properties.business_category == "Shops") {
+          return feature;
+        }
+      },
+      style: function (feature) {
+        return {
+          color: '#003b71',
+          fillColor: '#003b71',
+        }
+      }
+    }).addTo(map);
+
+    var ServiceLayer = L.geoJson(businesses, {
+      pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, commonStyles);
+      },
+      onEachFeature: function (feature, layer) {
+				// name of power plant in toolip
+				layer.bindTooltip(`<b>${layer.feature.properties.Name}</b><br>Address: ${layer.feature.properties.Address}`);
+				layer.on('mouseover', function () {
+					layer.setStyle({
+						fillColor: 'white'
+					});
+				});
+				layer.on('mouseout', function () {
+					layer.setStyle({
+						color: '#ee7623',
+						fillColor: '#ee7623',
+					});
+				});
+			},
+      filter: function (feature) {
+        if (feature.properties.business_category == "Services") {
+          return feature;
+        }
+      },
+      style: function (feature) {
+        return {
+          color: '#ee7623',
+          fillColor: '#ee7623',
+        }
+      }
+      
+ 
+
+}).addTo(map);
+
+var FoodLayer = L.geoJson(businesses, {
+      pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, commonStyles);
+      },
+      onEachFeature: function (feature, layer) {
+				// name of power plant in toolip
+				layer.bindTooltip(`<b>${layer.feature.properties.Name}</b><br>Address: ${layer.feature.properties.Address}`);
+				layer.on('mouseover', function () {
+					layer.setStyle({
+						fillColor: 'white'
+					});
+				});
+				layer.on('mouseout', function () {
+					layer.setStyle({
+						color: '#93d500',
+						fillColor: '#93d500',
+					});
+				});
+			},
+      filter: function (feature) {
+        if (feature.properties.business_category == "Restaurants and Bars") {
+          return feature;
+        }
+      },
+      style: function (feature) {
+        return {
+          color: '#93d500',
+          fillColor: '#93d500',
+        }
+      }
+      
+ 
+
+}).addTo(map);
+
+var BeautyLayer = L.geoJson(businesses, {
+      pointToLayer: function (feature, latlng) {
+        return L.circleMarker(latlng, commonStyles);
+      },
+      onEachFeature: function (feature, layer) {
+				// name of power plant in toolip
+				layer.bindTooltip(`<b>${layer.feature.properties.Name}</b><br>Address: ${layer.feature.properties.Address}`);
+				layer.on('mouseover', function () {
+					layer.setStyle({
+						fillColor: 'white'
+					});
+				});
+				layer.on('mouseout', function () {
+					layer.setStyle({
+						color: '#4ac1e0',
+						fillColor: '#4ac1e0',
+					});
+				});
+			},
+      filter: function (feature) {
+        if (feature.properties.business_category == "Health & Beauty") {
+          return feature;
+        }
+      },
+      style: function (feature) {
+        return {
+          color: '#4ac1e0',
+          fillColor: '#4ac1e0',
+        }
+      }
+      
+ 
+
+}).addTo(map);
+
+ //layer control
+ var sourcesLayers = {
+      "<b style='color:#003b71'>Shops</b>": shoplayer,
+      "<b style='color:#ee7623'>Services</b>": ServiceLayer,
+      "<b style='color:#93d500'>Bars and Restaurants</b>": FoodLayer,
+      "<b style='color:#4ac1e0'>Health and Beauty</b>": BeautyLayer,
+    }
+    L.control.layers(null, sourcesLayers, { collapsed: false }).addTo(map);
+
+
+
+  </script>
+
+</body>
+
+</html>

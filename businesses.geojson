@@ -1,0 +1,3057 @@
+{
+    "type": "FeatureCollection",
+    "name": "businesses",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "1",
+                "Name": "Grandpa Joe's Candy Shop",
+                "Address": "1 E. Main St.",
+                "Label": "1 E. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://grandpajoescandyshop.com/",
+                "Phone": "937-980-9035",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "1, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039467,-84.202804"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202804,
+                    40.039467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "3",
+                "Name": "The Olive Oasis",
+                "Address": "7 E. Main St.",
+                "Label": "7 E. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://theoliveoasis.com/",
+                "Phone": "(937) 552-7322",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "7, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03945867346939,-84.20278189795918"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202781897959184,
+                    40.03945867346939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "4",
+                "Name": "Sweeney Todd Salon",
+                "Address": "9 E. Main St.",
+                "Label": "9 E. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.facebook.com/sweeneytoddsalon/",
+                "Phone": "(937) 339-8633",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "9, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039455897959186,-84.20277453061225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202774530612245,
+                    40.039455897959186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "6",
+                "Name": "Genesis Graphics",
+                "Address": "14 N. Walnut St.",
+                "Label": "14 N. Walnut St. #2",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "",
+                "Website": "No Web Site",
+                "Phone": "",
+                "result_num": "0",
+                "osm_id": "19164809",
+                "display_name": "14, North Walnut Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039634666666664,-84.20217366666667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202173666666667,
+                    40.039634666666664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "7",
+                "Name": "Total Team Sports",
+                "Address": "101 E. Main St. ",
+                "Label": "101 E. Main St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "Y",
+                "Bike": "",
+                "Website": "No Web Site",
+                "Phone": "",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "101, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039213,-84.202153"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202153,
+                    40.039213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "8",
+                "Name": "Ulbrich's Home Town Bakery",
+                "Address": "103 E. Main St.",
+                "Label": "103 E. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.facebook.com/ulbrichsdonuts",
+                "Phone": "(937) 335-0100",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "103, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03920683673469,-84.20213889795917"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202138897959173,
+                    40.039206836734692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "9",
+                "Name": "Designs From The Grove",
+                "Address": "105 E. Main St. ",
+                "Label": "105 E. Main St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.facebook.com/designsfromthegrove/",
+                "Phone": "(937) 214-2546",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "105, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03920067346939,-84.20212479591837"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202124795918365,
+                    40.039200673469388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "10",
+                "Name": "Mojos Bar & Grille",
+                "Address": "109 E. Main St. ",
+                "Label": "109 E. Main St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "Y",
+                "Website": "https://www.troymojos.com/",
+                "Phone": "(937) 552-9172",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "109, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03918834693877,-84.20209659183674"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202096591836735,
+                    40.039188346938772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "11",
+                "Name": "Beauty by Bellotti",
+                "Address": "111 E. Main St. ",
+                "Label": "111 E. Main St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.facebook.com/beautybybellotti/",
+                "Phone": "(937) 552-9752",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "111, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03918218367347,-84.20208248979591"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202082489795913,
+                    40.039182183673468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "12",
+                "Name": "Crossroads Estate Sales",
+                "Address": "115 E. Main St.",
+                "Label": "115 E. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://crossroads-estatesales.com/",
+                "Phone": "(937) 272-7849.",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "115, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03916985714285,-84.20205428571428"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202054285714283,
+                    40.039169857142852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "13",
+                "Name": "K's Hamburger Shop",
+                "Address": "117 E. Main St.",
+                "Label": "117 E. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "",
+                "Website": "http://www.kshamburgershoptroy.com/",
+                "Phone": "(937) 339-3902",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "117, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03916369387755,-84.20204018367346"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202040183673461,
+                    40.039163693877548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "14",
+                "Name": "Primal Forces Massage Therapy and Integrated Nutrition",
+                "Address": "121 E. Main St.",
+                "Label": "121 E. Main St. Suite A",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "No Website",
+                "Phone": "",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "121, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03915136734694,-84.20201197959183"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20201197959183,
+                    40.039151367346939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "14",
+                "Name": "The Lash Loft",
+                "Address": "123 E. Main St. ",
+                "Label": "123 E. Main St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "",
+                "Phone": "",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "123, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03914520408163,-84.20199787755102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.201997877551022,
+                    40.039145204081628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "14",
+                "Name": "Dakota Rising Western Chic",
+                "Address": "123 E. Main St.",
+                "Label": "123 E. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://dakotarisingwestern.com/",
+                "Phone": "(937) 573-9754",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "123, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03914520408163,-84.20199787755102"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.201997877551022,
+                    40.039145204081628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "15",
+                "Name": "Museum of Troy History",
+                "Address": "124 E. Water St. ",
+                "Label": "124 E. Water St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Attractions",
+                "Dog": "",
+                "Bike": "",
+                "Website": "http://www.museumoftroyhistory.org/",
+                "Phone": "(937) 339-5155   ",
+                "result_num": "0",
+                "osm_id": "19167869",
+                "display_name": "124, East Water Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.0400072244898,-84.20139820408164"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.201398204081642,
+                    40.040007224489798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "16",
+                "Name": "Overfield Tavern Museum",
+                "Address": "201 E. Water St.",
+                "Label": "201 E. Water St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Attractions",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.facebook.com/OverfieldTavernMuseum/",
+                "Phone": "(937) 335-4019",
+                "result_num": "0",
+                "osm_id": "19167869",
+                "display_name": "201, East Water Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039769,-84.200464"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.200464,
+                    40.039769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "17",
+                "Name": "Pedego Electric Bikes",
+                "Address": "225 E. Main St. ",
+                "Label": "225 E. Main St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://pedegoelectricbikes.com/dealers/troy/",
+                "Phone": "937-552-9060",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "225, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.038463736842104,-84.20050939473684"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.200509394736841,
+                    40.038463736842104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "17",
+                "Name": "Baby & Co. 4D Ultrasounds",
+                "Address": "223 E. Main St.",
+                "Label": "223 E. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "http://babyandco4d.com/",
+                "Phone": "(937) 524-5414",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "223, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.038464,-84.20051"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20051,
+                    40.038464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "20",
+                "Name": "Purebred Coffee Co",
+                "Address": "112 E. Main St.",
+                "Label": "112 E. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://purebredcoffee.com/",
+                "Phone": "(937) 552-7099",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "112, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03903302040816,-84.2021753877551"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202175387755105,
+                    40.039033020408162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "21",
+                "Name": "Purebred Coffee Co",
+                "Address": "110 E. Main St.",
+                "Label": "110 E. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://purebredcoffee.com/",
+                "Phone": "(937) 552-7099",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "110, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039039183673474,-84.20218948979591"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202189489795913,
+                    40.039039183673474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "22",
+                "Name": "The Blue Bow Boutique",
+                "Address": "108 E. Main St. ",
+                "Label": "108 E. Main St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.facebook.com/thebluebowboutique/",
+                "Phone": "(937) 670-2027",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "108, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03904534693878,-84.20220359183674"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202203591836735,
+                    40.039045346938778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "23",
+                "Name": "Trojan City Music",
+                "Address": "106 E. Main St.",
+                "Label": "106 E. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://trojancitymusic.com/",
+                "Phone": "(937) 335-2406",
+                "result_num": "0",
+                "osm_id": "134497118",
+                "display_name": "Trojan City Music, 106, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "shop",
+                "type": "music",
+                "latlong": "40.038826,-84.20221444444346"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202214444443456,
+                    40.038826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "24",
+                "Name": "Stafford Uniquely Sports",
+                "Address": "104 E. Main St. ",
+                "Label": "104 E. Main St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.facebook.com/pages/category/Sporting-Goods-Store/Stafford-Uniquely-Sports-151953281513118/",
+                "Phone": "(937) 335-8331",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "104, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03905767346939,-84.20223179591837"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202231795918365,
+                    40.039057673469387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "25",
+                "Name": "The Cabinet Shop of Troy",
+                "Address": "100 E. Main St. ",
+                "Label": "100 E. Main St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "",
+                "Website": "http://www.thecabinetshopoftroy.com/",
+                "Phone": "(937) 339-4264",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "100, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03907,-84.20226"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20226,
+                    40.03907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "26",
+                "Name": "Polished Nail Salon",
+                "Address": "6 E. Main St.",
+                "Label": "6 E. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.facebook.com/Polishedtroyoh/",
+                "Phone": "(937) 552-6492",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "6, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03931433333333,-84.20288295833333"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202882958333333,
+                    40.03931433333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "27",
+                "Name": "Haren's Market",
+                "Address": "2 E. Main St.",
+                "Label": "2 E. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.instagram.com/harensmarket/",
+                "Phone": "(937) 335-1399",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "2, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03932,-84.202898"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202898,
+                    40.03932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "28",
+                "Name": "Oh! Boba",
+                "Address": "217 Public Square",
+                "Label": "217 Public Square",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.ohbobatea.com/",
+                "Phone": "937-552-3881",
+                "result_num": "0",
+                "osm_id": "113564415",
+                "display_name": "217, Public Square, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039550454545456,-84.20345267272727"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203452672727266,
+                    40.039550454545456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "29",
+                "Name": "David Fair on the Square",
+                "Address": "301 Public Square",
+                "Label": "301 Public Square",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "Y",
+                "Bike": "Y",
+                "Website": "https://www.davidfairinteriors.net/",
+                "Phone": "(937) 440-8232",
+                "result_num": "0",
+                "osm_id": "113564415",
+                "display_name": "301, Public Square, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03964209090909,-84.20348245454545"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203482454545451,
+                    40.039642090909091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "30",
+                "Name": "The Caroline",
+                "Address": "5 S. Market St.",
+                "Label": "5 S. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "",
+                "Website": "http://thecarolineonthesquare.com/",
+                "Phone": "(937) 552-7676 ?",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "5, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03922265306122,-84.20351169387756"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203511693877559,
+                    40.039222653061223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "31",
+                "Name": "Low Voltage Solutions",
+                "Address": "7 S. Market St.",
+                "Label": "7 S. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.installedbylvs.com/",
+                "Phone": "(937) 498-1317",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "7, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039210979591836,-84.20352004081633"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203520040816329,
+                    40.039210979591836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "32",
+                "Name": "Village Salon",
+                "Address": "11 South Market St. ",
+                "Label": "11 South Market St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://villagesalontroy.com/",
+                "Phone": "(937) 980-9311",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "11, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03918763265306,-84.20353673469388"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203536734693884,
+                    40.039187632653061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "33",
+                "Name": "The 3 Weird Sisters Studio",
+                "Address": "15 S. Market St. ",
+                "Label": "15 S. Market St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "Y",
+                "Bike": "Y",
+                "Website": "https://www.facebook.com/3WeirdSistersStudio/",
+                "Phone": "(937) 477-6038",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "15, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039164285714286,-84.20355342857142"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203553428571425,
+                    40.039164285714286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "35",
+                "Name": "Special Effects Salon & Day Spa",
+                "Address": "121 E. Franklin St.",
+                "Label": "121 E. Franklin St. #3505",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "http://www.specialeffectssalondayspa.com/",
+                "Phone": "(937) 339-1764",
+                "result_num": "0",
+                "osm_id": "19165240",
+                "display_name": "121, East Franklin Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03813230612245,-84.20272924489795"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202729244897952,
+                    40.038132306122449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "37",
+                "Name": "Award One",
+                "Address": "10 E. Franklin St.",
+                "Label": "10 E. Franklin St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.facebook.com/pages/category/Screen-Printing---Embroidery/Award-One-163473527013298/",
+                "Phone": "(937) 339-4444",
+                "result_num": "0",
+                "osm_id": "19165240",
+                "display_name": "East Franklin Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "highway",
+                "type": "residential",
+                "latlong": "40.036024,-84.1981"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.1981,
+                    40.036024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "38",
+                "Name": "Echo Boutique",
+                "Address": "101 S. Market St. ",
+                "Label": "101 S. Market St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.shoppingecho.com/",
+                "Phone": "(937) 219-5651",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "101, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.038457,-84.204061"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204061,
+                    40.038457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "38",
+                "Name": "Poppy Lane Boutique",
+                "Address": "103 S. Market St. ",
+                "Label": "103 S. Market St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://poppylaneplus.com/",
+                "Phone": "(937) 219-5651",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "103, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.0384426122449,-84.20407163265305"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204071632653054,
+                    40.0384426122449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "39",
+                "Name": "Reading For Change",
+                "Address": "105 S. Market St.",
+                "Label": "105 S. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.readingforchange.com/",
+                "Phone": "(937) 239-8350",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "105, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.0384282244898,-84.20408226530611"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204082265306113,
+                    40.038428224489799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "40",
+                "Name": "Be You Boutique",
+                "Address": "117 S. Market St.",
+                "Label": "117 S. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://be-you-boutique.com/",
+                "Phone": "(937) 216-4527",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "117, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.038341897959185,-84.20414606122449"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204146061224492,
+                    40.038341897959185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "42",
+                "Name": "Samozrejme",
+                "Address": "123 S. Market St. ",
+                "Label": "123 S. Market St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "Y",
+                "Website": "https://www.samozrejme.com/",
+                "Phone": "(937) 552-9143",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "123, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.038298734693875,-84.20417795918367"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204177959183667,
+                    40.038298734693875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "43",
+                "Name": "Poppin' Off Gourmet Popcorn",
+                "Address": "125 S. Market St.",
+                "Label": "125 S. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "Y",
+                "Website": "https://poppinoffdayton.com/",
+                "Phone": "(419) 217-0067",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "125, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.038284346938774,-84.20418859183673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204188591836726,
+                    40.038284346938774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "44",
+                "Name": "Garden of York",
+                "Address": "125 S. Market St.",
+                "Label": "125 S. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "",
+                "Website": "",
+                "Phone": "937-684-3838",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "125, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.038284346938774,-84.20418859183673"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204188591836726,
+                    40.038284346938774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "45",
+                "Name": "Color Loft Salon",
+                "Address": "131 S. Market St.",
+                "Label": "131 S. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.colorloftsalon.com/",
+                "Phone": "(937) 552-5566",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "131, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03824118367347,-84.20422048979592"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204220489795915,
+                    40.03824118367347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "47",
+                "Name": "Studio 109",
+                "Address": "109 E. Canal St. ",
+                "Label": "109 E. Canal St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.facebook.com/people/Studio-109/100063651845130/",
+                "Phone": "(937) 332-0277",
+                "result_num": "0",
+                "osm_id": "19165776",
+                "display_name": "109, East Canal Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03722765306122,-84.20350957142857"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203509571428569,
+                    40.037227653061223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "48",
+                "Name": "Center Stage Academy",
+                "Address": "18 E. Canal St.",
+                "Label": "18 E. Canal St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "",
+                "Website": "http://centerstagetroy.com/site/",
+                "Phone": "(937) 339-9444",
+                "result_num": "0",
+                "osm_id": "19165776",
+                "display_name": "18, East Canal Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03749883333333,-84.20454866666667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204548666666668,
+                    40.037498833333331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "50",
+                "Name": "Cyrious Auto Repair",
+                "Address": "201 S. Market St.",
+                "Label": "201 S. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://troyautofix.com/",
+                "Phone": "(937) 335-2285",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "201, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.037537,-84.204739"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204739,
+                    40.037537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "51",
+                "Name": "One Stop Drive Thru",
+                "Address": "211 S. Market St.",
+                "Label": "211 S. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "",
+                "Website": "No Web Site",
+                "Phone": "",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "211, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.037451795918365,-84.20480053061225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204800530612246,
+                    40.037451795918365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "52",
+                "Name": "Meraki A Salon and Spa",
+                "Address": "221 S. Market St.",
+                "Label": "221 S. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.merakiasalonandspa.com/",
+                "Phone": "(937) 703-1122",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "221, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03736659183674,-84.20486206122449"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204862061224489,
+                    40.037366591836737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "55",
+                "Name": "Arkhouse Company",
+                "Address": "233 S. Market St. ",
+                "Label": "233 S. Market St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.facebook.com/ArkhouseCompany/",
+                "Phone": "(937) 703-9017",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "233, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03726434693878,-84.20493589795919"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204935897959189,
+                    40.037264346938777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "56",
+                "Name": "Wagmore Pet Salon",
+                "Address": "235 S. Market St.",
+                "Label": "235 S. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://facebook.com/wagmoresalon/?ref=ts",
+                "Phone": "(937) 335-9247",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "235, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.037247306122445,-84.20494820408163"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204948204081632,
+                    40.037247306122445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "57",
+                "Name": "Old Scratch Pizza (Coming Soon)",
+                "Address": "19 East Race St.",
+                "Label": "19 East Race St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "",
+                "Website": "",
+                "Phone": "",
+                "result_num": "0",
+                "osm_id": "19163890",
+                "display_name": "19, East Race Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03658906122449,-84.20518746938775"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.205187469387752,
+                    40.03658906122449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "58",
+                "Name": "Genuine Auto Parts",
+                "Address": "225 S. Walnut St. ",
+                "Label": "225 S. Walnut St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://hahnauto.com/",
+                "Phone": "(937) 339-2681",
+                "result_num": "0",
+                "osm_id": "612994535",
+                "display_name": "225, South Walnut Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03689344897959,-84.20388371428572"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203883714285723,
+                    40.03689344897959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "60",
+                "Name": "ARF Design & Print",
+                "Address": "305 S. Market St.",
+                "Label": "305 S. Market St. Suite 12",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.facebook.com/pages/category/Printing-Service/Arf-Design-162923443754143/",
+                "Phone": "(937) 335-3261",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "305, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.0364593877551,-84.20553075510205"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.205530755102046,
+                    40.036459387755102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "61",
+                "Name": "Troy's Quick Mart",
+                "Address": "10 W. Race St.",
+                "Label": "10 W. Race St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "No Web Site",
+                "Phone": "",
+                "result_num": "0",
+                "osm_id": "19167229",
+                "display_name": "10, West Race Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.036652833333335,-84.20576600000001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.205766,
+                    40.036652833333335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "62",
+                "Name": "Resignation Records",
+                "Address": "224 S. Market St.",
+                "Label": "224 S. Market St. Suite B",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.resignationrecords.com/",
+                "Phone": "",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "224, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03741251020408,-84.20507467346938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.205074673469383,
+                    40.037412510204078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "62",
+                "Name": "Salon Lux",
+                "Address": "224 S. Market St.",
+                "Label": "224 S. Market St. Suite D",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "",
+                "Phone": "",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "224, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03741251020408,-84.20507467346938"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.205074673469383,
+                    40.037412510204078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "63",
+                "Name": "Upper Valley Hearing & Balance",
+                "Address": "210 S Market St.",
+                "Label": "210 S Market St. Suite A",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://uppervalleyhearing.com/",
+                "Phone": "(937) 308-7000",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "210, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03753179591836,-84.20498853061224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204988530612241,
+                    40.037531795918362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "64",
+                "Name": "eclat Facial Studio",
+                "Address": "116 S. Market St.",
+                "Label": "116 S. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "eclatfacialstudio.com",
+                "Phone": "937-552-7337",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "116, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03842289795919,-84.20433306122449"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204333061224489,
+                    40.038422897959187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "65",
+                "Name": "Winner's Computer LLC",
+                "Address": "114 S. Market St.",
+                "Label": "114 S. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "Y",
+                "Website": "https://winnerscomputer.com/",
+                "Phone": "(937) 339-0888",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "114, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03843728571429,-84.20432242857143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20432242857143,
+                    40.038437285714288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "67",
+                "Name": "Brower Stationers",
+                "Address": "16 S. Market St.",
+                "Label": "16 S. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "Y",
+                "Bike": "",
+                "Website": "https://www.browersonline.com/",
+                "Phone": "(937) 335-2117",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "16, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03924158333333,-84.20374264583333"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20374264583333,
+                    40.039241583333329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "68",
+                "Name": "Modern on Market Bridal Boutique",
+                "Address": "12 S. Market St.",
+                "Label": "12 S. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.modernonmarket.com/",
+                "Phone": "(937) 552-7288",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "12, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039265416666666,-84.20372560416666"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203725604166664,
+                    40.039265416666666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "69",
+                "Name": "Crafted & Cured",
+                "Address": "8 S. Market St.",
+                "Label": "8 S. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.cnctroy.com/",
+                "Phone": "",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "8, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039289249999996,-84.2037085625"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203708562499997,
+                    40.03928925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "70",
+                "Name": "Expressions of the Home",
+                "Address": "6 S. Market St.",
+                "Label": "6 S. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "Y",
+                "Bike": "Y",
+                "Website": "https://www.facebook.com/expressionsofthehome/",
+                "Phone": "(937) 332-9227",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "6, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03930116666667,-84.20370004166666"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203700041666664,
+                    40.039301166666668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "71",
+                "Name": "Insightful Eyeware",
+                "Address": "4 S. Market St.",
+                "Label": "4 S. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.insightfuleyewear.com/",
+                "Phone": "(937) 339-2020",
+                "result_num": "0",
+                "osm_id": "19167501",
+                "display_name": "4, South Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03931308333333,-84.20369152083333"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203691520833331,
+                    40.039313083333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "72",
+                "Name": "Power 107.1",
+                "Address": "315 Public Square",
+                "Label": "315 Public Square",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "",
+                "Website": "http://power1071.org/",
+                "Phone": "(937) 339-1071",
+                "result_num": "0",
+                "osm_id": "113564415",
+                "display_name": "315, Public Square, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039695558139535,-84.2034524883721"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203452488372093,
+                    40.039695558139535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "73",
+                "Name": "Bakehouse Bread & Cookie Company",
+                "Address": "317 Public Square",
+                "Label": "317 Public Square",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://bakehousebread.com/",
+                "Phone": "(937) 339-8100",
+                "result_num": "0",
+                "osm_id": "113564415",
+                "display_name": "317, Public Square, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039696116279075,-84.20344897674418"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203448976744184,
+                    40.039696116279075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "76",
+                "Name": "For All Seasons Gift Boutique",
+                "Address": "2 W. Main St.",
+                "Label": "2 W. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "Y",
+                "Website": "https://www.facebook.com/For-All-Seasons-262056243819422/",
+                "Phone": "(937) 875-2599",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "2, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039741,-84.203822"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203822,
+                    40.039741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "77",
+                "Name": "Pop-up @ 4 W. Main",
+                "Address": "4 W. Main St.",
+                "Label": "4 W. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.popuptroy.com/",
+                "Phone": "N/A",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "4, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03974477083333,-84.20383064583334"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203830645833335,
+                    40.03974477083333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "78",
+                "Name": "Around About Books",
+                "Address": "8 W. Main St.",
+                "Label": "8 W. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.aroundaboutbooks.com/",
+                "Phone": "(937) 339-1707",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "8, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.0397523125,-84.2038479375"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203847937500001,
+                    40.039752312499999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "79",
+                "Name": "Winans Chocolates + Coffees",
+                "Address": "10 W. Main St.",
+                "Label": "10 W. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.winanscandies.com/",
+                "Phone": "(937) 335-9119",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "10, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03975608333333,-84.20385658333333"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203856583333334,
+                    40.03975608333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "80",
+                "Name": "Troy Family Bike Shop",
+                "Address": "12 W. Main St.",
+                "Label": "12 W. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.troyfamilybike.com/",
+                "Phone": "(937) 339-1634",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "12, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03975985416667,-84.20386522916667"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203865229166666,
+                    40.039759854166668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "81",
+                "Name": "Fitness Institute of Troy (FIT)",
+                "Address": "101 W. Franklin St.",
+                "Label": "101 W. Franklin St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "http://fitnessinstituteoftroy.com/",
+                "Phone": "(937) 552-9682",
+                "result_num": "0",
+                "osm_id": "19167898",
+                "display_name": "101, West Franklin Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039172,-84.205127"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.205127,
+                    40.039172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "82",
+                "Name": "Troy Local History Library",
+                "Address": "100 W. Main St.",
+                "Label": "100 W. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Attractions",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.troypubliclibrary.org/",
+                "Phone": "(937) 335-4082",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "100, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.040039,-84.204515"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204515,
+                    40.040039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "83",
+                "Name": "Hittle's Jewelry",
+                "Address": "106 W. Main St.",
+                "Label": "106 W. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.hittlesjewelry.com/",
+                "Phone": "(937) 339-3210",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "106, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.0400738,-84.2045996"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2045996,
+                    40.0400738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "84",
+                "Name": "Leaf & Vine",
+                "Address": "108 W. Main St.",
+                "Label": "108 W. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "Y",
+                "Website": "http://troyleafandvine.com/",
+                "Phone": "(937) 332-0773",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "108, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.0400854,-84.2046278"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2046278,
+                    40.0400854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "91",
+                "Name": "Moeller Brew Barn",
+                "Address": "214 W. Main St.",
+                "Label": "214 W. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.moellerbrewbarn.com/troy",
+                "Phone": "(937) 552-9430",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "214, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.040511571428574,-84.20563100000001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.205631,
+                    40.040511571428574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "93",
+                "Name": "Respire Salt Spa (Coming Soon)",
+                "Address": "",
+                "Label": "",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "",
+                "Phone": "",
+                "result_num": "0",
+                "osm_id": "182770",
+                "display_name": "Troy, Miami County, Ohio, 45373, United States",
+                "category": "boundary",
+                "type": "administrative",
+                "latlong": "40.0394982,-84.2032767"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2032767,
+                    40.0394982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "95",
+                "Name": "Posh Hair Salon",
+                "Address": "400 W. Main St",
+                "Label": "400 W. Main St",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.facebook.com/theposhsalon",
+                "Phone": "(937) 335-4526",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "400, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.041257,-84.207286"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.207286,
+                    40.041257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "95",
+                "Name": "Renew U",
+                "Address": "408 W. Main St",
+                "Label": "408 W. Main St",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.facebook.com/Renew-U-Troy-111681084308918/",
+                "Phone": "(937) 418-8807",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "408, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.04128059183674,-84.207342"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.207342,
+                    40.041280591836738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "96",
+                "Name": "Donatos Pizza",
+                "Address": "414 W. Main St. ",
+                "Label": "414 W. Main St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.donatos.com/locations/troy",
+                "Phone": " (937) 335-4800",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "414, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.041298285714284,-84.20738399999999"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.207384,
+                    40.041298285714284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "97",
+                "Name": "Allita's Floral and Design",
+                "Address": "502 W. Main St.",
+                "Label": "502 W. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "",
+                "Website": "No Web Site",
+                "Phone": "",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "502, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.041668565656565,-84.20826089898989"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.208260898989892,
+                    40.041668565656565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "98",
+                "Name": "Troy Barber Shop",
+                "Address": "502 W. Main St.",
+                "Label": "502 W. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://facebook.com/Troy-Barber-Shop-117936469617305/",
+                "Phone": "(937) 869-5291",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "502, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.041668565656565,-84.20826089898989"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.208260898989892,
+                    40.041668565656565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "99",
+                "Name": "Dunaway's Beef & Ale",
+                "Address": "508 W. Main St.",
+                "Label": "508 W. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://dunaways.wixsite.com/dunaways",
+                "Phone": "(937) 335-8608",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "508, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.04167626262626,-84.20827859595958"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.208278595959584,
+                    40.041676262626261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "100",
+                "Name": "Troy-Miami County Public Library",
+                "Address": "201 W. Main St. ",
+                "Label": "201 W. Main St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Attractions",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.troypubliclibrary.org/",
+                "Phone": "(937) 339-0502",
+                "result_num": "0",
+                "osm_id": "38610646",
+                "display_name": "201, West Main Street, Lexington, Troy Township, Richland County, Ohio, 44904, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.67921242547842,-82.58934842547842"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -82.58934842547842,
+                    40.679212425478418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "101",
+                "Name": "Troy-Hayner Cultural Center",
+                "Address": "301 W. Main St.",
+                "Label": "301 W. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Attractions",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.troyhayner.org/",
+                "Phone": "(937) 339-0457",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "301, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.040986,-84.206261"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.206261,
+                    40.040986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "102",
+                "Name": "Ivy Court",
+                "Address": "103 W. Main St.",
+                "Label": "103 W. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.shopivycourt.com/",
+                "Phone": "(937) 204-0725",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "103, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.04018518367347,-84.20441687755103"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204416877551026,
+                    40.040185183673472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "102",
+                "Name": "Magnolia Mae",
+                "Address": "105 W. Main St. ",
+                "Label": "105 W. Main St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://magnoliaoh.com/",
+                "Phone": "(937) 271-8144",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "105, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.04018636734694,-84.20441975510204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204419755102037,
+                    40.040186367346941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "102",
+                "Name": "The June ",
+                "Address": "107 W. Main St.",
+                "Label": "107 W. Main St. Fourth Floor",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.thejuneohio.com/",
+                "Phone": "",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "107, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.04018755102041,-84.20442263265306"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204422632653063,
+                    40.040187551020409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "103",
+                "Name": "Miso (Coming Soon)",
+                "Address": "101 W. Main St.",
+                "Label": "101 W. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "",
+                "Website": "",
+                "Phone": "",
+                "result_num": "0",
+                "osm_id": "66416153",
+                "display_name": "101, West Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.040184,-84.204414"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.204414,
+                    40.040184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "106",
+                "Name": "Agave & Rye",
+                "Address": "2 N. Market St.",
+                "Label": "2 N. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://agaveandrye.com/",
+                "Phone": "(937) 741-8226",
+                "result_num": "0",
+                "osm_id": "53704204",
+                "display_name": "2, North Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039972,-84.203192"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203192,
+                    40.039972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "107",
+                "Name": "Four Acre Clothing Co.",
+                "Address": "8 N. Market St.",
+                "Label": "8 N. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.facebook.com/FourAcreClothingCo",
+                "Phone": "(937) 407-6524",
+                "result_num": "0",
+                "osm_id": "53704204",
+                "display_name": "8, North Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.04000704,-84.20316698"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20316698,
+                    40.04000704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "107",
+                "Name": "Thrive Classical Pilates",
+                "Address": "2 N. Market St.",
+                "Label": "2 N. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.physicaltherapy212.com/",
+                "Phone": "(937) 703-9315",
+                "result_num": "0",
+                "osm_id": "53704204",
+                "display_name": "2, North Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039972,-84.203192"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203192,
+                    40.039972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "108",
+                "Name": "Thrush & Son Complete Home Improvement",
+                "Address": "10 N. Market St.",
+                "Label": "10 N. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "Y",
+                "Website": "https://www.thrushandson.com/",
+                "Phone": "(937) 339-5136",
+                "result_num": "0",
+                "osm_id": "53704204",
+                "display_name": "10, North Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.04001872,-84.20315864"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20315864,
+                    40.04001872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "109",
+                "Name": "Submarine House",
+                "Address": "14 N. Market St.",
+                "Label": "14 N. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://submarinehouse.com/",
+                "Phone": "(937) 335-6479",
+                "result_num": "0",
+                "osm_id": "53704204",
+                "display_name": "14, North Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.04004208,-84.20314196"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20314196,
+                    40.04004208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "110",
+                "Name": "Hippieworks",
+                "Address": "16 N. Market St. ",
+                "Label": "16 N. Market St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Shops",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.hippieworks.shop/",
+                "Phone": "(937) 524-4244",
+                "result_num": "0",
+                "osm_id": "53704204",
+                "display_name": "16, North Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.04005376,-84.20313362"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20313362,
+                    40.04005376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "111",
+                "Name": "Basil's on Market",
+                "Address": "18 N. Market St.",
+                "Label": "18 N. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "Y",
+                "Website": "https://basilsonmarket.com/",
+                "Phone": "(937) 524-5916",
+                "result_num": "0",
+                "osm_id": "53704204",
+                "display_name": "18, North Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.04006544,-84.20312528"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20312528,
+                    40.04006544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "112",
+                "Name": "North Market Barber Shop",
+                "Address": "22 N. Market St.",
+                "Label": "22 N. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "No Website",
+                "Phone": "",
+                "result_num": "0",
+                "osm_id": "53704204",
+                "display_name": "22, North Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.0400888,-84.20310860000001"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.2031086,
+                    40.0400888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "113",
+                "Name": "Remax Victory & Affiliates",
+                "Address": "24 N. Market St.",
+                "Label": "24 N. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "",
+                "Website": "",
+                "Phone": "",
+                "result_num": "0",
+                "osm_id": "53704204",
+                "display_name": "24, North Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.04010048,-84.20310026"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.20310026,
+                    40.04010048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "117",
+                "Name": "Zeal Coaching for Life & Career",
+                "Address": "3 E. Water St.",
+                "Label": "3 E. Water St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://zealcoach.com/",
+                "Phone": "(419) 733-0252",
+                "result_num": "0",
+                "osm_id": "19167869",
+                "display_name": "3, East Water Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.04063126530612,-84.20239842857143"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202398428571428,
+                    40.040631265306118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "118",
+                "Name": "Trojan Florist & Gifts",
+                "Address": "7 E. Water St.",
+                "Label": "7 E. Water St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Services",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.trojanflorist.com/",
+                "Phone": "(937) 339-2206",
+                "result_num": "0",
+                "osm_id": "19167869",
+                "display_name": "7, East Water Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.04061979591837,-84.20237128571428"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202371285714278,
+                    40.040619795918367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "119",
+                "Name": "Tapestry Healing Arts Center",
+                "Address": "16 E. Water St. ",
+                "Label": "16 E. Water St. ",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.tapestryhealingartscenter.com/",
+                "Phone": "(937) 216-3842",
+                "result_num": "0",
+                "osm_id": "19167869",
+                "display_name": "16, East Water Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.04045202083333,-84.20241802083333"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202418020833335,
+                    40.040452020833328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "120",
+                "Name": "Troy Rec",
+                "Address": "11 N. Market St.",
+                "Label": "11 N. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Attractions",
+                "Dog": "",
+                "Bike": "",
+                "Website": "http://www.troyrec.com/",
+                "Phone": "(937) 339-1923",
+                "result_num": "0",
+                "osm_id": "53704204",
+                "display_name": "11, North Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03995259183674,-84.2029614489796"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202961448979593,
+                    40.039952591836737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "122",
+                "Name": "Tokyo Peking",
+                "Address": "3 N. Market St.",
+                "Label": "3 N. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "",
+                "Website": "http://www.tokyopekingchinese.com/",
+                "Phone": "937-339-7762",
+                "result_num": "0",
+                "osm_id": "53704204",
+                "display_name": "3, North Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.03990491836735,-84.20299548979592"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202995489795924,
+                    40.039904918367348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "123",
+                "Name": "Ruby's Beauty Salon",
+                "Address": "1 N. Market St.",
+                "Label": "1 N. Market St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.facebook.com/Rubys-Beauty-Salon-114188523621165/",
+                "Phone": "N/A",
+                "result_num": "0",
+                "osm_id": "53704204",
+                "display_name": "1, North Market Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039893,-84.203004"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.203004,
+                    40.039893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "126",
+                "Name": "CK Barbershop & Grooming Co",
+                "Address": "1 E. Main St.",
+                "Label": "1 E. Main St. Suite 103",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Health & Beauty",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.facebook.com/CKBarbershopAndGrooming",
+                "Phone": "",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "1, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039467,-84.202804"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202804,
+                    40.039467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Map": "127",
+                "Name": "ReU Juicery & Organic Kitchen",
+                "Address": "5 E. Main St.",
+                "Label": "5 E. Main St.",
+                "City": "Troy",
+                "State": "Ohio",
+                "Category": "Restaurants and Bars",
+                "Dog": "",
+                "Bike": "",
+                "Website": "https://www.reujuicery.com/",
+                "Phone": "(937) 524-5015",
+                "result_num": "0",
+                "osm_id": "53704801",
+                "display_name": "5, East Main Street, Hobart Circle Historic District, Troy, Miami County, Ohio, 45373, United States",
+                "category": "place",
+                "type": "house",
+                "latlong": "40.039461448979594,-84.20278926530612"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202789265306123,
+                    40.039461448979594
+                ]
+            }
+        }
+    ]
+}
